@@ -1,5 +1,5 @@
 # studybud
-A discord-like application using Python Django built by following guidance from Dennis Ivy at https://youtu.be/PtQiiknWUcI
+A discord-like application using Python Django built by following tutorials & guidance from Dennis Ivy at https://youtu.be/PtQiiknWUcI
 
 ### Cloning the repository
 --> Clone the repository using the command below :
